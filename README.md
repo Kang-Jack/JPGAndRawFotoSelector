@@ -1,4 +1,7 @@
 # JPGAndRawFotoSelector
- Clean up your raw photo with the jpg proxy file
- RePublish from old repo, need a refactor task for old code
+ Clean up your raw photo with the jpg proxy file.
+# Status
+ RePublish from old repo, 
+# Todo
+ need a refactor task for old code
  
