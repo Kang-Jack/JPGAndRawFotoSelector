@@ -1,7 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=16f5171c_002Dc372_002D4127_002D847c_002D48da52534af7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="canGetSettings" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;MSTest::A3487507-4FDC-44C7-A57C-2B8AD16EC02B::.NETFramework,Version=v4.8::MTestJPGAndRawFotoSelector.UnitTest1.canGetSettings&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;MSTest::A3487507-4FDC-44C7-A57C-2B8AD16EC02B::.NETFramework,Version=v4.8::MTestJPGAndRawFotoSelector.UnitTest1.testEXIFManager&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
