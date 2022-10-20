@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZwJ7dU3z79bgy/HLaY5sUVe5Xs7bkSn0dxMoVq9AU+a5vGYmZMMDpN8HCLeL18PQTAKIFYKCFeuFbrYXk4wegA==",
+  "success": true,
+  "projectFilePath": "C:\\Doc\\CODE\\JPGAndRawFotoSelector\\JPGAndRawFotoSelector\\JPGRawFotoSelector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lkang\\.nuget\\packages\\jetbrains.annotations\\6.1.0\\jetbrains.annotations.6.1.0.nupkg.sha512",
+    "C:\\Users\\lkang\\.nuget\\packages\\nullcheckanalyzer\\1.0.0.3\\nullcheckanalyzer.1.0.0.3.nupkg.sha512",
+    "C:\\Users\\lkang\\.nuget\\packages\\refactoringessentials\\3.0.0\\refactoringessentials.3.0.0.nupkg.sha512",
+    "C:\\Users\\lkang\\.nuget\\packages\\resharpercodecontractnullability\\1.0.4\\resharpercodecontractnullability.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

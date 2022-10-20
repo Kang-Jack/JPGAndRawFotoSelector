@@ -1,0 +1,13 @@
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\MTestJPGAndRawFotoSelector\obj\Release\MTestJPGAndRawFotoSelector.csproj.AssemblyReference.cache
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\MTestJPGAndRawFotoSelector\obj\Release\MTestJPGAndRawFotoSelector.csproj.CoreCompileInputs.cache
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\MTestJPGAndRawFotoSelector\bin\Release\MTestJPGAndRawFotoSelector.dll
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\MTestJPGAndRawFotoSelector\bin\Release\MTestJPGAndRawFotoSelector.pdb
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\MTestJPGAndRawFotoSelector\bin\Release\JPGRawFotoSelector.exe
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\MTestJPGAndRawFotoSelector\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\MTestJPGAndRawFotoSelector\bin\Release\JPGRawFotoSelector.pdb
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\MTestJPGAndRawFotoSelector\bin\Release\JPGRawFotoSelector.exe.config
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\MTestJPGAndRawFotoSelector\obj\Release\MTestJPGAndRawFotoSelector.csproj.CopyComplete
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\MTestJPGAndRawFotoSelector\obj\Release\MTestJPGAndRawFotoSelector.dll
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\MTestJPGAndRawFotoSelector\obj\Release\MTestJPGAndRawFotoSelector.pdb
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\MTestJPGAndRawFotoSelector\bin\Release\JPGAndRawFotoSelector.xml
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\MTestJPGAndRawFotoSelector\bin\Release\DSC04550.JPG

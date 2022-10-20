@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Doc\\CODE\\JPGAndRawFotoSelector\\JPGAndRawFotoSelector\\JPGRawFotoSelector.csproj": {}
+  },
+  "projects": {
+    "C:\\Doc\\CODE\\JPGAndRawFotoSelector\\JPGAndRawFotoSelector\\JPGRawFotoSelector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Doc\\CODE\\JPGAndRawFotoSelector\\JPGAndRawFotoSelector\\JPGRawFotoSelector.csproj",
+        "projectName": "JPGRawFotoSelector",
+        "projectPath": "C:\\Doc\\CODE\\JPGAndRawFotoSelector\\JPGAndRawFotoSelector\\JPGRawFotoSelector.csproj",
+        "packagesPath": "C:\\Users\\lkang\\.nuget\\packages\\",
+        "outputPath": "C:\\Doc\\CODE\\JPGAndRawFotoSelector\\JPGAndRawFotoSelector\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\lkang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/slb1-swt/Ocean-CoreAndServices/_packaging/slb-ocean%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "NullCheckAnalyzer": {
+              "target": "Package",
+              "version": "[1.0.0.3, )"
+            },
+            "RefactoringEssentials": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "ResharperCodeContractNullability": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

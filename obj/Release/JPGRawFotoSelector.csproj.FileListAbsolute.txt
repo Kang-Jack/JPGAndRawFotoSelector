@@ -1,0 +1,13 @@
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\bin\Release\JPGRawFotoSelector.exe.config
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\bin\Release\JPGRawFotoSelector.exe
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\bin\Release\JPGRawFotoSelector.pdb
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\bin\Release\JetBrains.Annotations.dll
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\obj\Release\JPGRawFotoSelector.csproj.AssemblyReference.cache
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\obj\Release\JPGRawFotoSelector.csproj.SuggestedBindingRedirects.cache
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\obj\Release\JPGRawFotoSelector.FotoSelectorMainWindow.resources
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\obj\Release\JPGRawFotoSelector.Properties.Resources.resources
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\obj\Release\JPGRawFotoSelector.csproj.GenerateResource.cache
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\obj\Release\JPGRawFotoSelector.csproj.CoreCompileInputs.cache
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\obj\Release\JPGRawFotoSelector.csproj.CopyComplete
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\obj\Release\JPGRawFotoSelector.exe
+C:\Doc\CODE\JPGAndRawFotoSelector\JPGAndRawFotoSelector\obj\Release\JPGRawFotoSelector.pdb
