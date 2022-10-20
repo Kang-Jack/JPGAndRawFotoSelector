@@ -14,7 +14,6 @@
   </Choose>
   <ItemGroup>
     <ProjectReference Include="..\JPGAndRawFotoSelector\JPGRawFotoSelector.csproj" />
-    <ProjectReference Include="..\JPGRawFotoSelector.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="DSC04550.JPG">
