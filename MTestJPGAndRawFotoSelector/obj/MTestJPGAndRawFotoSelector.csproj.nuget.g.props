@@ -18,7 +18,6 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgResharperCodeContractNullability Condition=" '$(PkgResharperCodeContractNullability)' == '' ">C:\Users\lkang\.nuget\packages\resharpercodecontractnullability\1.0.4</PkgResharperCodeContractNullability>
-    <PkgRefactoringEssentials Condition=" '$(PkgRefactoringEssentials)' == '' ">C:\Users\lkang\.nuget\packages\refactoringessentials\3.0.0</PkgRefactoringEssentials>
     <PkgNullCheckAnalyzer Condition=" '$(PkgNullCheckAnalyzer)' == '' ">C:\Users\lkang\.nuget\packages\nullcheckanalyzer\1.0.0.3</PkgNullCheckAnalyzer>
     <PkgMicrosoft_DotNet_UpgradeAssistant_Extensions_Default_Analyzers Condition=" '$(PkgMicrosoft_DotNet_UpgradeAssistant_Extensions_Default_Analyzers)' == '' ">C:\Users\lkang\.nuget\packages\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\0.4.346202</PkgMicrosoft_DotNet_UpgradeAssistant_Extensions_Default_Analyzers>
   </PropertyGroup>
