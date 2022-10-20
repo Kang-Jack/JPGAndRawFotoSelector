@@ -32,24 +32,6 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
-      <Visible>False</Visible>
-      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
-      <Install>true</Install>
-    </BootstrapperPackage>
-    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
-      <Visible>False</Visible>
-      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
-      <Install>false</Install>
-    </BootstrapperPackage>
-    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
-      <Visible>False</Visible>
-      <ProductName>.NET Framework 3.5 SP1</ProductName>
-      <Install>false</Install>
-    </BootstrapperPackage>
-  </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
     <PackageReference Include="NullCheckAnalyzer">
       <Version>1.0.0.3</Version>
     </PackageReference>
@@ -66,12 +48,6 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.Windows.Compatibility" Version="6.0.0" />
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Remove="MTestJPGAndRawFotoSelector\obj\Release\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs" />
-    <Compile Remove="MTestJPGAndRawFotoSelector\obj\Release\.NETFramework,Version=v4.8.AssemblyAttributes.cs" />
-    <Compile Remove="MTestJPGAndRawFotoSelector\Properties\AssemblyInfo.cs" />
-    <Compile Remove="MTestJPGAndRawFotoSelector\UnitTest1.cs" />
   </ItemGroup>
   <PropertyGroup />
 </Project>

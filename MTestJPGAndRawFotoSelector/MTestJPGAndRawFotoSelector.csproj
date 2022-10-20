@@ -13,6 +13,7 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
+    <ProjectReference Include="..\JPGAndRawFotoSelector\JPGRawFotoSelector.csproj" />
     <ProjectReference Include="..\JPGRawFotoSelector.csproj" />
   </ItemGroup>
   <ItemGroup>
